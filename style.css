@@ -1,0 +1,28 @@
+.all{
+    color:white;
+    text-align:center;
+}
+#poster{
+    height:375px;
+    margin-bottom:10px;
+}
+a{
+    font-family:Comic Sans MS;
+    color:yellow;
+    font-size:30px;
+    background-color:black;
+    border-style:dashed;
+    border-color:white white gray gray;
+    border-width:3px 5px 4px 2px;
+}
+body{
+background:linear-gradient(to bottom, red, blue);
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:80px;
+}
+p{
+    font-family:impact;
+    font-size:50px;
+}
